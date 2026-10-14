@@ -1,0 +1,9 @@
+/config.php
+/var/*
+!/var/.gitkeep
+/vendor/
+/.env
+*.sqlite
+*.sqlite-*
+*.log
+.DS_Store
